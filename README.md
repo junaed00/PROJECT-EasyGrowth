@@ -2,6 +2,6 @@
 Mobile Application (Android/iOS)
 
 
-##Timeline
+## Timeline
 
-###SEP 01, 2022 - TBA
+### SEP 01, 2022 - TBA
